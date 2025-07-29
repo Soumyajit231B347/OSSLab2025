@@ -14,9 +14,9 @@ Email: 231B347@juetguna.in
 
 
 
-\## Solution code to part F 
-a=10 
-b=20 
-c=a+b 
+<Solution code to part F>
+a=10
+b=20
+c=a+b
 print('The sum of two numbers is:',c)
 
